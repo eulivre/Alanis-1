@@ -26,3 +26,6 @@ Robin project manages and develops cryptocurrency coins. For many community memb
   
 **BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz    
 **ALS**: AYLGvzJ64fe7UvHNDYES1wAiH8JNVfAQ87  
+  
+***
+`[announcement](https://github.com/robinadaptor/announcement)`  `[contact](https://github.com/robinadaptor/POS-helper)`  
