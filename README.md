@@ -10,7 +10,7 @@ algorithm	: Quark
 block reward : 40 als (staking 40%, masternode 60%)  
 3000 als required coins for masternode  
 blocktime : 60 sec  
-total supply : 80,000,000  
+max supply limit : ~ 80,000,000  
 genesis date	: 4th May, 2018  
   
 ***
@@ -19,7 +19,7 @@ genesis date	: 4th May, 2018
 exchanges : https://graviex.net/markets/alsbtc  
 masternode online : https://masternodes.online/currencies/ALS/  
     
-[`wallet`](https://github.com/robinadaptor/alanis-wallet)  [`bootstrap`](https://github.com/robinadaptor/alanis-bootstrap)    
+[`wallet`](https://github.com/robinadaptor/alanis-wallet)  [`bootstrap`](https://github.com/robinadaptor/alanis-bootstrap)  ['discord'](https://discord.gg/yQgsFp)    
 
 ***
 ## Donations 
@@ -29,4 +29,4 @@ Robin project manages and develops cryptocurrency coins. For many community memb
 **BTC**: 3HiMhcv7VZWsCesZ34fZmUxTdgeqz    
 **ALS**: AYLGvzJ64fe7UvHNDYES1wAiH8JNVfAQ87  
   
-[`home`](https://github.com/robinadaptor)  [`announcement`](https://github.com/robinadaptor/announcement)  [`contact`](https://github.com/robinadaptor/POS-helper)
+[`home`](https://github.com/robinadaptor)  [`announcement`](https://github.com/robinadaptor/announcement)  [`contact`](https://github.com/robinadaptor/POS-helper)  
