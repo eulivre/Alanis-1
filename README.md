@@ -30,7 +30,7 @@ masternodecoins : https://masternodecoins.me/alanis
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Staking</th>
-<tr><td>Premine</td><td align="center">1</td><td align="right">213,000 LSN</td><td align="center">60%</td><td align="center">40%</td></tr>
+<tr><td>Premine</td><td align="center">1</td><td align="right">213,000 ALS</td><td align="center">60%</td><td align="center">40%</td></tr>
 <tr><td>Phase 1</td><td align="center">2-3500</td><td align="right">1 ALS</td><td align="center">60%</td><td align="center">40%</td></tr>
 <tr><td>Phase 2</td><td align="center">3501-10000</td><td align="right">60 ALS</td><td align="center">60%</td><td align="center">40%</td></tr>
 <tr><td>Phase 3</td><td align="center">10001-18000</td><td align="right">80 ALS</td><td align="center">60%</td><td align="center">40%</td></tr>
